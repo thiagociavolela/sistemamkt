@@ -272,8 +272,6 @@ if (isset($_POST['submit'])) {
                                                 </div>
                                             </div>
                                         </div>
-                                        <br>
-                                        <span>Importe sua <strong>lista .CSV </strong>com os Números para qual deseja enviar.</span><br>
                                         <div class="input-group" style="padding-bottom: 10px;">
 
                                             <input type="file" name="file" class="form-control" id="inputGroupFile04" aria-describedby="inputGroupFileAddon04" aria-label="Upload">

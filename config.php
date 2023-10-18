@@ -1,4 +1,10 @@
 <?php
+/*
+Autor: Thiago Ciavolela
+Data: 18/10/2023
+Descrição: Projeto OpenSource trabalhado emcima da EvolutionApi, para disparos em Massa.
+*/
+
 
 // Configurações EvolutionApi
 
