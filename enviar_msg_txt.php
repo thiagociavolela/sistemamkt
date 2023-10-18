@@ -1,6 +1,12 @@
 <?php
-include "conexao.php";
-//var_dump($delay);die;
+/*
+Autor: Thiago Ciavolela
+Data: 18/10/2023
+Descrição: Projeto OpenSource trabalhado emcima da EvolutionApi, para disparos em Massa.
+*/
+
+include "config.php";
+
 if (isset($_POST['submit'])) {
     // Verifica se o arquivo foi enviado
     if (is_uploaded_file($_FILES['file']['tmp_name'])) {
