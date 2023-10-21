@@ -5,5 +5,3 @@ Sistema MKT é um disparador de mensagens em massa para WhatsApp e foi desenvolv
 Como Configurar?
 Para configurar você deve editar o arquivo config.php, e alterar as URL de conexão correspondentes a instalação da sua EvolutionApi.
 
-Apoie o Projeto, Faça uma doação via Pix.
-Fale Conosco: (11)91708-0051
